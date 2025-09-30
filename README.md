@@ -20,7 +20,7 @@
 ## Helpful Repositories / Wiki's 
 - [`Awesome Flipper Zero` An index of helpful repos and information](https://github.com/djsime1/awesome-flipperzero)
 - [`Official Flipper Wiki` The Official Flipper Wiki](https://docs.flipperzero.one)
-- [`Unofficial Flipper Wiki` The Unofficial Flipper Wiki](https://flipperzero.miraheze.org/wiki/Main_Page)
+- [`[Decomissioned/WebArchiveLink]Unofficial Flipper Wiki` The Unofficial Flipper Wiki](https://web.archive.org/web/20220520000538/https://flipperzero.miraheze.org/wiki/Main_Page)
 - [`Atmanos' Documents` A collection of guides for the Flipper Zero](https://flipper.atmanos.com/docs/overview/intro)
 - [`UberGuidoZ Flipper Resources` A collection of resources for Flipper Zero](https://github.com/UberGuidoZ/Flipper)
 - [`Pingywon's Repository` A collection of resources and guides for the Flipper Zero](https://flipper.pingywon.com/)
